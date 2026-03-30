@@ -16,7 +16,7 @@ I build production-grade platforms, not tutorials. Everything below has been dep
 
 ## Featured Projects
 
-### [eks-infra-automation](https://github.com/QUOJO-DAWSON/eks-infra-automation) — Platform Layer
+### [eks-infra-automation](https://github.com/gdawsonkesson/eks-infra-automation) — Platform Layer
 > Production-grade EKS platform · v2.0.0
 
 Full Kubernetes platform on AWS built with Terraform. Deployed, verified live, and torn down cleanly via automated pipeline.
@@ -33,7 +33,7 @@ Full Kubernetes platform on AWS built with Terraform. Deployed, verified live, a
 
 ---
 
-### [online-boutique-gitops](https://github.com/QUOJO-DAWSON/online-boutique-gitops) — Delivery Layer
+### [online-boutique-gitops](https://github.com/gdawsonkesson/online-boutique-gitops) — Delivery Layer
 > Kustomize overlays · ArgoCD · dev/staging/prod
 
 GitOps repository for the Online Boutique microservices application. ArgoCD watches this repo and syncs changes to the cluster automatically. Separate from the platform repo by design — application teams own deployments, platform teams own the cluster.
@@ -45,7 +45,7 @@ GitOps repository for the Online Boutique microservices application. ArgoCD watc
 
 ---
 
-### [online-boutique-application](https://github.com/QUOJO-DAWSON/online-boutique-application) — Build Layer
+### [online-boutique-application](https://github.com/gdawsonkesson/online-boutique-application) — Build Layer
 > Source code · Dockerfiles · CI pipelines · Docker Hub
 
 Source code and CI pipelines for 11 microservices written in Go, Python, Node.js, Java, and C#. Images built, scanned with Trivy, and pushed to Docker Hub. The productcatalogservice pipeline fires a repository_dispatch to the GitOps repo on every merge — updating the Kustomize image tag automatically.
@@ -56,7 +56,7 @@ Source code and CI pipelines for 11 microservices written in Go, Python, Node.js
 
 ---
 
-### [aws-serverless-platform](https://github.com/QUOJO-DAWSON/aws-serverless-platform) — Live Serverless Platform
+### [aws-serverless-platform](https://github.com/gdawsonkesson/aws-serverless-platform) — Live Serverless Platform
 > Live at [gdawsonkesson.com](https://gdawsonkesson.com)
 
 Production serverless platform provisioned entirely with Terraform. Running live with zero infrastructure cost.
@@ -84,8 +84,8 @@ Production serverless platform provisioned entirely with Terraform. Running live
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=QUOJO-DAWSON&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=QUOJO-DAWSON&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=gdawsonkesson&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gdawsonkesson&theme=dark&hide_border=false)
 
 ---
 
