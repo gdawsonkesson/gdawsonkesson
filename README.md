@@ -1,6 +1,6 @@
 ﻿# George Dawson-Kesson
 
-**DevOps & Cloud Engineer** — AWS SAA-C03 · Terraform · Kubernetes/EKS · ArgoCD · Kyverno · Istio
+**DevOps Engineer** — AWS SAA-C03 · Terraform · Kubernetes/EKS · ArgoCD · Kyverno · Istio
 
 I came into infrastructure through enterprise sales and Linux administration. That background means I think about reliability and cost in terms real businesses care about, not just uptime numbers.
 
